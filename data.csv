@@ -1,0 +1,30 @@
+States,Recharge from rainfallMonsoon season,Recharge from other sources,Recharge from rainfallNon-monsoon season,Total_Rainfall,Natural discharge during non-monsoon season,Net annual groundwater availability,Irrigation,Domestic and industrial uses,Total_Usage,Projected demand for domestic and industrial uses upto 2025,Groundwater availability for future irrigation use,Situation
+Andhra Pradesh,15.1,6.5,5.5,33.8,3.1,30.8,12.6,1.5,14.2,2.7,15.9,EXCESS
+Arunachal Pradesh,3.4,0.0003,1,4.5,0.5,4,0.002,0.001,0.003,0.01,4,SEMICRITICAL 
+Assam,19,2.2,8.6,30.4,2.5,27.8,5.3,0.7,6,1,21.5,EXCESS
+Bihar,18.9,3.9,3.4,28.6,2.4,26.2,9.8,1.6,11.4,2.6,13.9,MODERATED
+Chhattisgarh,9.9,0.6,0.9,12.2,0.6,11.6,3.1,0.5,3.6,0.6,7.9,MODERATED
+Delhi,0.1,0.1,0.02,0.3,0.02,0.3,0.1,0.3,0.4,0.3,0.01,CRITICAL
+Goa,0.1,0.01,0.01,0.2,0.1,0.1,0.01,0.03,0.04,0.04,0.1,CRITICAL
+Gujarat,12.2,2.8,0,18.4,1.1,17.4,11.9,1.1,13,1.5,5.3,MODERATED
+Haryana,3.5,2.7,1,10.5,0.7,9.8,11.7,0.7,12.4,0.8,-2.7,CRITICAL
+Himachal Pradesh,0.4,0.02,0.1,0.6,0.1,0.5,0.2,0.1,0.3,0.1,0.2,CRITICAL
+Jammu & Kashmir,1.5,1.7,0.4,3.7,0.4,3.3,0.2,0.6,0.7,0.8,2.4,SEMICRITICAL 
+Jharkhand,4.5,0.1,1.1,6,0.6,5.4,1.2,0.4,1.6,0.6,3.6,SEMICRITICAL 
+Karnataka,6.3,4.3,2.7,16.8,2,14.8,9,1,10,1.3,6.2,MODERATED
+Kerala,4.8,0.1,0.6,6.6,0.6,6,1.3,1.5,2.8,1.7,3,SEMICRITICAL 
+Madhya Pradesh,27.5,1.1,0.8,34,1.7,32.3,16.7,1.3,18,1.8,13.8,EXCESS
+Maharashtra,22,2.7,1.9,35.7,1.9,33.8,15.9,1,17,2,16.3,EXCESS
+Manipur,0.2,0.01,0.2,0.4,0.04,0.4,0.003,0.001,0.004,0.1,0.4,CRITICAL
+Meghalaya,1,0,0.2,1.2,0.1,1.1,0.002,0.0002,0.002,0.1,1,CRITICAL
+Mizoram,0.03,0,0.02,0.04,0.004,0.04,0,0.0004,0.0004,0.001,0.04,CRITICAL
+Nagaland,0.3,0,0.1,0.4,0.04,0.4,0,0.01,0.01,0.01,0.4,CRITICAL
+Odisha,11.3,2.5,1.3,17.8,1.1,16.7,3.5,0.9,4.4,1.3,11.9,EXCESS
+Punjab,5.9,10.6,1.3,22.6,2.2,20.4,34,0.7,34.7,1,-14.6,CRITICAL
+Rajasthan,8.8,0.7,0.3,11.9,1.1,10.8,12.9,1.7,14.5,1.8,0.8,CRITICAL
+Sikkim,0,0,0,0,0,0.05,0.003,0.01,0.01,0.01,0.03,CRITICAL
+Tamil Nadu,7.5,11.1,2.2,22.9,2.3,20.7,14.7,1.9,16.6,1.97,4.7,SEMICRITICAL 
+Tripura,1.7,0,0.7,3,0.2,2.7,0.1,0.1,0.2,0.2,2.4,SEMICRITICAL 
+Uttar Pradesh,40.8,11.4,5.4,75.3,6.7,68.6,46,3.5,49.5,5.4,17.2,EXCESS
+Uttarakhand,1.3,0.2,0.2,2.2,0.1,2.1,1,0.03,1.1,0.1,1,CRITICAL
+West Bengal,18.2,2.2,5.4,30.5,2.9,27.6,10.1,0.8,10.9,1,16.8,EXCESS
